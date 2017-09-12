@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="loggin">Loggin</string>
+    <string name="registro">Registro</string>
+    <string name="password">Password</string>
+    <string name="mail">Mail</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="comer">Dormir</string>
+    <string name="bailar">Bailar</string>
+    <string name="informacion">Informacion</string>
+    <string name="password2">Password2</string>
+    <string name="Aceptar">Aceptar</string>
+
+
+    <string-array name="ciudades">
+        <item>Bello</item>
+        <item>Medellín</item>
+        <item>Sabaneta</item>
+        <item>Envigado</item>
+        <item>Caldas</item>
+        <item>Itagui</item>
+        <item>Copacabana</item>
+    </string-array>
+</resources>
